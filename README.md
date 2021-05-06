@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Flutter
-- - 📫 How to reach me: https://www.linkedin.com/in/felipe-correia-a16233116/
+- 📫 How to reach me: https://www.linkedin.com/in/felipe-correia-a16233116/
+- 🏡 From São Paulo - SP 
+
+
 
 ### Olá 👋
 
-Formado em Análise e Desenvolvimento de Sistemas e atualmente estudando com o intuito de me tornar um Desenvolvedor Flutter. 👊🙏
+Formado em Análise e Desenvolvimento de Sistemas 
+e atualmente estudando com o intuito de me tornar um Desenvolvedor Flutter. 👊🙏
 
 <!--
 **Felipe-Augusto-Correia/Felipe-Augusto-Correia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
