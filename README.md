@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Flutter
 - - 📫 How to reach me: https://www.linkedin.com/in/felipe-correia-a16233116/
 
+### Olá 👋
+
 Formado em Análise e Desenvolvimento de Sistemas e atualmente estudando com o intuito de me tornar um Desenvolvedor Flutter. 👊🙏
 
 <!--
